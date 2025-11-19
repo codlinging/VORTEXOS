@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "cstdint": "c",
+        "stdlib.h": "c",
+        "stdint.h": "c",
+        "pic.h": "c",
+        "keyboard.h": "c",
+        "shell.h": "c",
+        "interrupts.h": "c",
+        "gdt.h": "c",
+        "tss.h": "c",
+        "timer.h": "c",
+        "notepad.h": "c",
+        "rmfs.h": "c",
+        "vesa.h": "c",
+        "colours.h": "c",
+        "string.h": "c"
+    }
+}
